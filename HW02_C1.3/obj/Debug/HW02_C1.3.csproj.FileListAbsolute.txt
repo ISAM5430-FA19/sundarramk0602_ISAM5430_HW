@@ -1,0 +1,7 @@
+C:\Users\karthick\source\repos\HW02_C1.3\HW02_C1.3\bin\Debug\HW02_C1.3.exe.config
+C:\Users\karthick\source\repos\HW02_C1.3\HW02_C1.3\bin\Debug\HW02_C1.3.exe
+C:\Users\karthick\source\repos\HW02_C1.3\HW02_C1.3\bin\Debug\HW02_C1.3.pdb
+C:\Users\karthick\source\repos\HW02_C1.3\HW02_C1.3\obj\Debug\HW02_C1.3.csprojAssemblyReference.cache
+C:\Users\karthick\source\repos\HW02_C1.3\HW02_C1.3\obj\Debug\HW02_C1.3.csproj.CoreCompileInputs.cache
+C:\Users\karthick\source\repos\HW02_C1.3\HW02_C1.3\obj\Debug\HW02_C1.3.exe
+C:\Users\karthick\source\repos\HW02_C1.3\HW02_C1.3\obj\Debug\HW02_C1.3.pdb
