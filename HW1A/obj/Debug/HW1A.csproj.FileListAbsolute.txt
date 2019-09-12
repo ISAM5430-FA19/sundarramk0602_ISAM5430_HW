@@ -1,7 +1,0 @@
-C:\Users\karthick\source\repos\HW1A\HW1A\bin\Debug\HW1A.exe.config
-C:\Users\karthick\source\repos\HW1A\HW1A\bin\Debug\HW1A.exe
-C:\Users\karthick\source\repos\HW1A\HW1A\bin\Debug\HW1A.pdb
-C:\Users\karthick\source\repos\HW1A\HW1A\obj\Debug\HW1A.csprojAssemblyReference.cache
-C:\Users\karthick\source\repos\HW1A\HW1A\obj\Debug\HW1A.csproj.CoreCompileInputs.cache
-C:\Users\karthick\source\repos\HW1A\HW1A\obj\Debug\HW1A.exe
-C:\Users\karthick\source\repos\HW1A\HW1A\obj\Debug\HW1A.pdb
