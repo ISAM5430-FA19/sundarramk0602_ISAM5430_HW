@@ -1,0 +1,7 @@
+C:\Users\karthick\source\repos\HW03_B7\HW03_B7\bin\Debug\HW03_B7.exe.config
+C:\Users\karthick\source\repos\HW03_B7\HW03_B7\bin\Debug\HW03_B7.exe
+C:\Users\karthick\source\repos\HW03_B7\HW03_B7\bin\Debug\HW03_B7.pdb
+C:\Users\karthick\source\repos\HW03_B7\HW03_B7\obj\Debug\HW03_B7.csprojAssemblyReference.cache
+C:\Users\karthick\source\repos\HW03_B7\HW03_B7\obj\Debug\HW03_B7.csproj.CoreCompileInputs.cache
+C:\Users\karthick\source\repos\HW03_B7\HW03_B7\obj\Debug\HW03_B7.exe
+C:\Users\karthick\source\repos\HW03_B7\HW03_B7\obj\Debug\HW03_B7.pdb
