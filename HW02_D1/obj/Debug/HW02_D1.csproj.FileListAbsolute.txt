@@ -1,7 +1,0 @@
-C:\Users\karthick\source\repos\HW02_D1\HW02_D1\bin\Debug\HW02_D1.exe.config
-C:\Users\karthick\source\repos\HW02_D1\HW02_D1\bin\Debug\HW02_D1.exe
-C:\Users\karthick\source\repos\HW02_D1\HW02_D1\bin\Debug\HW02_D1.pdb
-C:\Users\karthick\source\repos\HW02_D1\HW02_D1\obj\Debug\HW02_D1.csprojAssemblyReference.cache
-C:\Users\karthick\source\repos\HW02_D1\HW02_D1\obj\Debug\HW02_D1.csproj.CoreCompileInputs.cache
-C:\Users\karthick\source\repos\HW02_D1\HW02_D1\obj\Debug\HW02_D1.exe
-C:\Users\karthick\source\repos\HW02_D1\HW02_D1\obj\Debug\HW02_D1.pdb
