@@ -1,0 +1,6 @@
+C:\Users\karthick\source\repos\HW03\HW03_C12\bin\Debug\HW03_C12.exe.config
+C:\Users\karthick\source\repos\HW03\HW03_C12\bin\Debug\HW03_C12.exe
+C:\Users\karthick\source\repos\HW03\HW03_C12\bin\Debug\HW03_C12.pdb
+C:\Users\karthick\source\repos\HW03\HW03_C12\obj\Debug\HW03_C12.csproj.CoreCompileInputs.cache
+C:\Users\karthick\source\repos\HW03\HW03_C12\obj\Debug\HW03_C12.exe
+C:\Users\karthick\source\repos\HW03\HW03_C12\obj\Debug\HW03_C12.pdb

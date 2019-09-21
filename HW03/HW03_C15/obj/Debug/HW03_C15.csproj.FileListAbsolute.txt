@@ -1,0 +1,6 @@
+C:\Users\karthick\source\repos\HW03\HW03_C15\obj\Debug\HW03_C15.csproj.CoreCompileInputs.cache
+C:\Users\karthick\source\repos\HW03\HW03_C15\bin\Debug\HW03_C15.exe.config
+C:\Users\karthick\source\repos\HW03\HW03_C15\bin\Debug\HW03_C15.exe
+C:\Users\karthick\source\repos\HW03\HW03_C15\bin\Debug\HW03_C15.pdb
+C:\Users\karthick\source\repos\HW03\HW03_C15\obj\Debug\HW03_C15.exe
+C:\Users\karthick\source\repos\HW03\HW03_C15\obj\Debug\HW03_C15.pdb

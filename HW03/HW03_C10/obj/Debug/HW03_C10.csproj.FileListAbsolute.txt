@@ -1,0 +1,7 @@
+C:\Users\karthick\source\repos\HW03\HW03_C10\bin\Debug\HW03_C10.exe.config
+C:\Users\karthick\source\repos\HW03\HW03_C10\bin\Debug\HW03_C10.exe
+C:\Users\karthick\source\repos\HW03\HW03_C10\bin\Debug\HW03_C10.pdb
+C:\Users\karthick\source\repos\HW03\HW03_C10\obj\Debug\HW03_C10.csproj.CoreCompileInputs.cache
+C:\Users\karthick\source\repos\HW03\HW03_C10\obj\Debug\HW03_C10.exe
+C:\Users\karthick\source\repos\HW03\HW03_C10\obj\Debug\HW03_C10.pdb
+C:\Users\karthick\source\repos\HW03\HW03_C10\obj\Debug\HW03_C10.csprojAssemblyReference.cache
