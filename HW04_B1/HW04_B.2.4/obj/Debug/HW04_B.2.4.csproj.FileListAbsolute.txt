@@ -1,0 +1,7 @@
+C:\Users\karthick\source\repos\HW04_B1\HW04_B.2.4\bin\Debug\HW04_B.2.4.exe.config
+C:\Users\karthick\source\repos\HW04_B1\HW04_B.2.4\bin\Debug\HW04_B.2.4.exe
+C:\Users\karthick\source\repos\HW04_B1\HW04_B.2.4\bin\Debug\HW04_B.2.4.pdb
+C:\Users\karthick\source\repos\HW04_B1\HW04_B.2.4\obj\Debug\HW04_B.2.4.csprojAssemblyReference.cache
+C:\Users\karthick\source\repos\HW04_B1\HW04_B.2.4\obj\Debug\HW04_B.2.4.csproj.CoreCompileInputs.cache
+C:\Users\karthick\source\repos\HW04_B1\HW04_B.2.4\obj\Debug\HW04_B.2.4.exe
+C:\Users\karthick\source\repos\HW04_B1\HW04_B.2.4\obj\Debug\HW04_B.2.4.pdb
