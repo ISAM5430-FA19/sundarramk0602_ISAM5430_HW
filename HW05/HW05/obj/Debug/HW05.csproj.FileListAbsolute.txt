@@ -1,0 +1,7 @@
+C:\Users\karthick\source\repos\HW05\HW05\bin\Debug\HW05.exe.config
+C:\Users\karthick\source\repos\HW05\HW05\bin\Debug\HW05.exe
+C:\Users\karthick\source\repos\HW05\HW05\bin\Debug\HW05.pdb
+C:\Users\karthick\source\repos\HW05\HW05\obj\Debug\HW05.csprojAssemblyReference.cache
+C:\Users\karthick\source\repos\HW05\HW05\obj\Debug\HW05.csproj.CoreCompileInputs.cache
+C:\Users\karthick\source\repos\HW05\HW05\obj\Debug\HW05.exe
+C:\Users\karthick\source\repos\HW05\HW05\obj\Debug\HW05.pdb
