@@ -14,19 +14,19 @@ namespace HW04_B._1._2
             int sumthree = 0;
             int sumfour = 0;
             int sumfive = 0;
-            WriteLine("two numbers");
+            WriteLine("\n two numbers");
 
             for(int i=1; i<=5; i++)
             {
                 for(int j=i+1; j<=5; j++)
                 {
-                        sum = sum + i * j;
-                    Write(sum + i + " * " + j + " + ");                 
-                        }
+                    Write(i + " * " + j + " + ");
+                    sum = sum + i * j;
                 }
+            }
             
 
-            WriteLine("three numbers");
+            WriteLine("\n three numbers");
 
             for (int i = 1; i <= 5; i++)
             {
@@ -43,7 +43,7 @@ namespace HW04_B._1._2
                 }
             }
 
-            WriteLine("four numbers");
+            WriteLine("\n four numbers");
 
             for (int i = 1; i <= 5; i++)
             {
@@ -63,7 +63,7 @@ namespace HW04_B._1._2
                 }
             }
 
-            WriteLine("five numbers");
+            WriteLine("\n five numbers");
 
             for (int i = 1; i <= 5; i++)
             {
