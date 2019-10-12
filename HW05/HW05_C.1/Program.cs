@@ -10,25 +10,22 @@ namespace HW05_C._1
     {
         static void Main(string[] args)
         {
-            Student student = new Student(0);
             Console.WriteLine("Enter the student number");
             int studid = int.Parse(Console.ReadLine());
-            student.student_number = studid;
             Console.WriteLine("Enter the student first name");
             string fname = Console.ReadLine();
-            student.first_name = fname;
             Console.WriteLine("Enter the student last name");
             string lname = Console.ReadLine();
-            student.last_name = lname;
             Console.WriteLine("Enter the student gpa");
-            double gpa = double.Parse(Console.ReadLine());
-            student.overall_gpa = gpa;
+            decimal gpa = decimal.Parse(Console.ReadLine());
             Console.WriteLine("Enter the student classification");
             string studclassi = Console.ReadLine();
-            student.classification = studclassi;
             Console.WriteLine("Enter the student major");
             string studmaj = Console.ReadLine();
-            student.major = studmaj;
+            Student student = new Student(studid,fname,lname);
+
+            Console.WriteLine("Student Name:" + student.firstname + student.lastname);
+            Console.WriteLine(" Student GPA:" + student.gpa);
 
             Console.ReadLine();
 

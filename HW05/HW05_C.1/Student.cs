@@ -8,22 +8,24 @@ namespace HW05_C._1
 {
     class Student
     {
-        public int student_number;
-        public string first_name;
-        public string last_name;
-        public double overall_gpa;
+        private int student_number;
+        private string first_name;
+        private string last_name;
+        private decimal overall_gpa;
         public string classification;
         public string major;
         
-        public Student(int studentno)
+        public Student(int studentno, string firstname, string lastname)
         {
             student_number = studentno;
-        }
-        public Student(string firstname, string lastname)
-        {
-            
             first_name = firstname;
             last_name = lastname;
+        }
+
+        public Student(decimal gpa, string Major)
+        {
+            overall_gpa = gpa;
+            major = Major;
         }
         public int studentno
         {
@@ -58,7 +60,7 @@ namespace HW05_C._1
                 lastname = value;
             }
         }
-        public double gpa
+        public decimal gpa
         {
             get
             {
